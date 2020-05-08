@@ -7,7 +7,7 @@ where
     ?pemain dcterms:subject <http://id.dbpedia.org/resource/Kategori:Pemain_sepak_bola_Indonesia>.
     ?pemain rdfs:label ?nama.
     ?pemain dbpedia-owl:position ?nama_posisi.
-    ?pemain dbpedia-owl:club ?klub.
+    ?pemain dbpprop-id:clubs ?klub.
     ?posisi rdfs:label ?nama_posisi.
     ?klub rdfs:label ?nama_klub.
 } 

@@ -1,212 +1,685 @@
-﻿pemain;klub;posisi
+﻿Pemain;Klub;Posisi
 Ahmad Jufrianto;Sriwijaya FC;Defender
+Ahmad Jufrianto;Pelita Jaya;Defender
+Ahmad Jufrianto;Arema Malang;Defender
+Ahmad Jufrianto;Persita;Defender
+Agung Setyabudi;Persebaya Surabaya;Pemain bertahan
 Agung Setyabudi;Persis Solo;Pemain bertahan
+Agung Setyabudi;PSIS Semarang;Pemain bertahan
+Agung Setyabudi;Arseto Solo;Pemain bertahan
+Agustiar Batubara;Persebaya Surabaya;Bek
 Agustiar Batubara;Persela Lamongan;Bek
+Agustiar Batubara;Deltras Sidoarjo;Bek
+Agustiar Batubara;Pelita Jaya Purwakarta;Bek
+Ahmad Bustomi;Persema Malang;Midfielder
+Ahmad Bustomi;Arema FC;Midfielder
 Ahmad Bustomi;Mitra Kukar;Midfielder
 Aji Santoso;Persebaya Surabaya;Pelatih
-Alan Martha;Persepam Pamekasan;Penyerang
+Aji Santoso;Persema Malang;Pelatih
+Aji Santoso;PSM Makassar;Pelatih
+Aji Santoso;Arema Malang;Pelatih
+Aliyudin;Persib Bandung;Forward
+Aliyudin;Persija Jakarta;Forward
+Aliyudin;Persikabo Bogor;Forward
+Aliyudin;Persikota Tangerang;Forward
 Aliyudin;Sriwijaya F.C.;Forward
-Ambrizal;Persija Jakarta;Pemain bertahan
+Aliyudin;Pelita Jaya FC;Forward
+Ambrizal;Sriwijaya FC;Pemain bertahan
+Anang Ma'ruf;Persebaya Surabaya;Pemain bertahan
+Anang Ma'ruf;Persija Jakarta;Pemain bertahan
 Anang Ma'ruf;Gresik United;Pemain bertahan
+Anang Ma'ruf;Deltras Sidoarjo;Pemain bertahan
 Andritany Ardhiyasa;Persija Jakarta;Kiper
+Andritany Ardhiyasa;Sriwijaya FC;Kiper
+Arif Suyono;Persema Malang;Gelandang
+Arif Suyono;Sriwijaya FC;Gelandang
+Arif Suyono;Arema Malang;Gelandang
 Arif Suyono;Mitra Kukar;Gelandang
+Atep;Persiba Bantul;Gelandang
 Atep;Persib Bandung;Gelandang
-Bambang Nurdiansyah;Persiram Raja Ampat;Penyerang
+Atep;Persija;Gelandang
 Bambang Pamungkas;Persija Jakarta;Penyerang
+Bambang Pamungkas;Selangor FA;Penyerang
+Bambang Pamungkas;EHC Hoensbroek;Penyerang
+Benny Wahyudi;Persekabpas Pasuruan;Bek
+Benny Wahyudi;Persekam Metro FC;Bek
+Benny Wahyudi;Persewangi Banyuwangi;Bek
+Benny Wahyudi;Arema Indonesia;Bek
 Benny Wahyudi;Deltras Sidoarjo;Bek
 Bima Sakti Tukiman;Persema Malang;Gelandang
-Budi Sudarsono;Persik Kediri;Penyerang
+Bima Sakti Tukiman;Persiba Balikpapan;Gelandang
+Bima Sakti Tukiman;PSM Makassar;Gelandang
+Bima Sakti Tukiman;PSPS Pekanbaru;Gelandang
+Bima Sakti Tukiman;Bontang FC;Gelandang
+Bima Sakti Tukiman;Pelita Jaya;Gelandang
+Cristian Gonzáles;Persib Bandung;Striker
+Cristian Gonzáles;Persik Kediri;Striker
+Cristian Gonzáles;Persisam Putra Samarinda;Striker
+Cristian Gonzáles;PSM Makassar;Striker
 Cristian Gonzáles;Arema FC;Striker
 Cucu Hidayat;Persib Bandung;Gelandang
+Cucu Hidayat;Persita Tangerang;Gelandang
+Cucu Hidayat;Persikad;Gelandang
+Cucu Hidayat;Persikabo;Gelandang
+David Christian Uron;Persipura Jayapura;Gelandang
 David Christian Uron;Persiram Raja Ampat;Gelandang
+David Christian Uron;Persiwa Wamena;Gelandang
 David Laly;Persipura Jayapura;Bek
+Edi Hafid Murtadho;Persib Bandung;Bek
+Edi Hafid Murtadho;Persitara Jakarta Utara;Bek
 Edi Hafid Murtadho;Pelita Bandung Raya;Bek
+Edi Hafid Murtadho;Persigar Garut;Bek
+Edi Hafid Murtadho;Pelita Jaya Jawa Barat;Bek
+Eka Ramdani;Persib Bandung;Gelandang
 Eka Ramdani;Pelita Bandung Raya;Gelandang
-Elie Aiboy;Semen Padang;Gelandang
+Eka Ramdani;Persijatim;Gelandang
 Erol FX Iba;Persebaya 1927;Bek
+Erol FX Iba;Persik Kediri;Bek
+Erol FX Iba;Persipura Jayapura;Bek
+Erol FX Iba;PSPS Pekanbaru;Bek
+Erol FX Iba;Pelita Jaya;Bek
+Erol FX Iba;Arema Malang;Bek
+Erol FX Iba;Semen Padang;Bek
+Fauzal Mubaraq;Persela Lamongan;Kiper
 Fauzal Mubaraq;PSPS Pekanbaru;Kiper
+Fauzal Mubaraq;Sriwijaya FC;Kiper
+Ferdinand Alfred Sinaga;Persepar Palangka Raya;Gelandang
+Ferdinand Alfred Sinaga;Persibat Batang;Gelandang
 Ferdinand Alfred Sinaga;Persisam Putra Samarinda;Gelandang
-Ferry Rotinsulu;Sriwijaya FC;Penjaga Gawang
+Ferdinand Alfred Sinaga;Persiwa Wamena;Gelandang
+Ferdinand Alfred Sinaga;PPSM Magelang;Gelandang
+Ferdinand Alfred Sinaga;Pelita Jaya;Gelandang
+Ferdinand Alfred Sinaga;Semen Padang;Gelandang
+Ferdinand Alfred Sinaga;Persikab;Gelandang
 F.X. Yanuar Wahyu;Persela Lamongan;Bek
+F.X. Yanuar Wahyu;Persema Malang;Bek
+Gerald Pangkali;Persija Jakarta;Gelandang
 Gerald Pangkali;Persipura Jayapura;Gelandang
-Greg Nwokolo;Arema Indonesia;Penyerang
+Greg Nwokolo;Persija Jakarta;Penyerang
+Greg Nwokolo;Persis Solo;Penyerang
+Greg Nwokolo;PSIS Semarang;Penyerang
+Greg Nwokolo;PSMS Medan;Penyerang
+Greg Nwokolo;S.C. Olhanense;Penyerang
+Greg Nwokolo;Arema FC;Penyerang
+Greg Nwokolo;Pelita Bandung Raya;Penyerang
+Greg Nwokolo;Sriwijaya F.C.;Penyerang
+Greg Nwokolo;Tampines Rovers FC;Penyerang
+Greg Nwokolo;Young Lions;Penyerang
+Hamka Hamzah;Persebaya Surabaya;Bek
+Hamka Hamzah;Persija Jakarta;Bek
+Hamka Hamzah;Persik Kediri;Bek
+Hamka Hamzah;Persipura Jayapura;Bek
+Hamka Hamzah;PSM Makassar;Bek
 Hamka Hamzah;Mitra Kukar;Bek
+Hamka Hamzah;Persisam Samarinda;Bek
 Hariono;Persib Bandung;Gelandang
+Hariono;Deltras Sidoarjo;Gelandang
+Hendra Bayauw;Persija Jakarta;Penyerang
 Hendra Bayauw;Semen Padang FC;Penyerang
+Hendra Bayauw;Jakarta FC 1928;Penyerang
+Hendra Bayauw;Persemalra Langgur;Penyerang
 Hendra Ridwan;Persib Bandung;Gelandang
+Hendra Ridwan;Persim Maros;Gelandang
+Hendra Ridwan;Persipura Jayapura;Gelandang
+Hendra Ridwan;PSM Makassar;Gelandang
+Hendra Ridwan;Persmin Minahasa;Gelandang
+Hendra Ridwan;Pelita Jaya;Gelandang
+Hendra Ridwan;Arema Malang;Gelandang
+Hendra Ridwan;Arema Indonesia;Gelandang
+Hendra Ridwan;PKT Bontang;Gelandang
+Hendro Kartiko;Persebaya Surabaya;Goalkeeper
+Hendro Kartiko;Persewangi Banyuwangi;Goalkeeper
+Hendro Kartiko;Persid Jember;Goalkeeper
+Hendro Kartiko;Persija Jakarta;Goalkeeper
+Hendro Kartiko;PSM Makassar;Goalkeeper
+Hendro Kartiko;PSPS Pekanbaru;Goalkeeper
+Hendro Kartiko;Sriwijaya FC;Goalkeeper
+Hendro Kartiko;Mitra Kutai Kartanegara;Goalkeeper
+Hendro Kartiko;Mitra Surabaya;Goalkeeper
+Hendro Kartiko;Arema Malang;Goalkeeper
+Hendro Siswanto;Persela Lamongan;Gelandang
+Hendro Siswanto;Persiba Balikpapan;Gelandang
+Hendro Siswanto;PSIS Semarang;Gelandang
+Hendro Siswanto;Persepam Pamekasan;Gelandang
 Hendro Siswanto;Arema Indonesia;Gelandang
+Hermawan (pemain sepak bola);Persela Lamongan;Bek
+Hermawan (pemain sepak bola);Pelita Jaya;Bek
+Hermawan (pemain sepak bola);Arema Malang;Bek
 Hermawan (pemain sepak bola);Arema Indonesia;Bek
+Hermawan (pemain sepak bola);Deltras Sidoarjo;Bek
+I Gusti Ngurah Bayu Sutha;Persema Malang;Bek
 I Gusti Ngurah Bayu Sutha;Persib Bandung;Bek
+I Gusti Ngurah Bayu Sutha;Perseden Denpasar;Bek
+I Gusti Ngurah Bayu Sutha;Persegi Gianyar;Bek
+I Gusti Ngurah Bayu Sutha;Pelita Jaya Purwakarta;Bek
+Ilham Jaya Kesuma;Persisam Putra Samarinda;Penyerang
 Ilham Jaya Kesuma;Persita Tangerang;Penyerang
+Ilham Jaya Kesuma;Sriwijaya F.C.;Penyerang
+Ilham Jaya Kesuma;Mitra Kukar;Penyerang
+I Made Wirawan;Persiba Balikpapan;Penjaga gawang
 I Made Wirawan;Persib Bandung;Penjaga gawang
+Imanuel Permenas Padwa;Persipura Jayapura;Gelandang
+Imanuel Permenas Padwa;Persiwa Wamena;Gelandang
 Imanuel Permenas Padwa;Sriwijaya F.C.;Gelandang
 Imanuel Wanggai;Persipura Jayapura;Gelandang
+Irfan Raditya;PSDS Deli Serdang;Bek
+Irfan Raditya;Pelita Bandung Raya;Bek
 Irfan Raditya;Arema Indonesia (IPL);Bek
+Irfan Raditya;Arema Indonesia;Bek
+Irfan Raditya;Persiraja;Bek
 Jack Komboy;Persipura Jayapura;Bek
+Jack Komboy;PSM Makassar;Bek
+Jaya Teguh Angga;Persema Malang;Penyerang
 Jaya Teguh Angga;Arema Indonesia;Penyerang
+Jhon van Beukering;De Graafschap;Penyerang
+Jhon van Beukering;Dordrecht;Penyerang
+Jhon van Beukering;Go Ahead Eagles;Penyerang
+Jhon van Beukering;Pelita Jaya Jawa Barat;Penyerang
+Jhon van Beukering;Feyenoord;Penyerang
+Jhon van Beukering;Vitesse;Penyerang
 Jimmy Suparno;Persela Lamongan;Gelandang
+Jimmy Suparno;Persijap Jepara;Gelandang
+Jimmy Suparno;Persipura Jayapura;Gelandang
+Jimmy Suparno;Deltras Sidoarjo;Gelandang
+Joey Suk;Go Ahead Eagles;Gelandang
 Johan Ahmad Farizi;Arema Indonesia;Bek
-Johan Juansyah;Persija Jakarta;Penyerang
+Juan Revi;Arema Indonesia;Gelandang
 Juan Revi;Deltras Sidoarjo;Gelandang
+Juan Revi;Persikoba Batu;Gelandang
+Jumadi Abdi;Persiba Balikpapan;Gelandang
+Jumadi Abdi;Persikota Tangerang;Gelandang
+Jumadi Abdi;Bontang FC;Gelandang
+Jumadi Abdi;Pelita Jaya Jawa Barat;Gelandang
 Kim Jeffrey Kurniawan;Persema Malang;Midfielder
-Korinus Fingkreuw;Persebaya Surabaya;Penyerang
+Korinus Fingkreuw;Persipura Jayapura;Penyerang
 Kurnia Meiga Hermansyah;Arema Indonesia;Penjaga gawang
+Kurniawan Dwi Yulianto;FC Luzern;Penyerang
+Kurniawan Dwi Yulianto;Persebaya Surabaya;Penyerang
+Kurniawan Dwi Yulianto;Persela Lamongan;Penyerang
+Kurniawan Dwi Yulianto;Persija Jakarta;Penyerang
 Kurniawan Dwi Yulianto;Persipon Pontianak;Penyerang
+Kurniawan Dwi Yulianto;Persisam Putra Samarinda;Penyerang
+Kurniawan Dwi Yulianto;Persitara Jakarta Utara;Penyerang
+Kurniawan Dwi Yulianto;PSM Makassar;Penyerang
+Kurniawan Dwi Yulianto;PSMS Medan;Penyerang
+Kurniawan Dwi Yulianto;PSPS Pekanbaru;Penyerang
+Kurniawan Dwi Yulianto;PSS Sleman;Penyerang
+Kurniawan Dwi Yulianto;PPSM Magelang;Penyerang
+Kurniawan Dwi Yulianto;Sampdoria;Penyerang
+Kurniawan Dwi Yulianto;Pelita Jaya Jawa Barat;Penyerang
+Leonard Tupamahu;Persija Jakarta;Pemain bertahan
+Leonard Tupamahu;Arema Indonesia;Pemain bertahan
 Maman Abdurrahman;Persib Bandung;Bek
+Maman Abdurrahman;PSIS Semarang;Bek
+Maman Abdurrahman;Persijatim;Bek
+Markus Haris Maulana;Persib Bandung;Kiper
+Markus Haris Maulana;Persik Kediri;Kiper
 Markus Haris Maulana;PSMS Medan;Kiper
+Markus Haris Maulana;Arema Indonesia;Kiper
+Muhammad Roby;Persija Jakarta;Bek
+Muhammad Roby;Persikad Depok;Bek
+Muhammad Roby;Persik Kediri;Bek
 Muhammad Roby;Persisam Samarinda;Bek
-Muhammad Yasir;Persijap Jepara;Kiper
+Muhammad Yasir;Arema Malang;Kiper
+Muhammad Yasir;Persikota;Kiper
+Muhammad Yasir;Persija;Kiper
+Muhammad Yasir;Persijap;Kiper
+Nasrul Koto;Semen Padang;Striker
+Nasrul Koto;Arseto Solo;Striker
 Noor Hadi;Persijap Jepara;Penyerang
+Nova Arianto;Persebaya Surabaya;Bek
 Nova Arianto;Persib Bandung;Bek
+Nova Arianto;PSIS Semarang;Bek
+Nova Arianto;PSS Sleman;Bek
+Nova Arianto;Arseto Solo;Bek
+Ortizan Solossa;Persija Jakarta;Bek
 Ortizan Solossa;Persipura Jayapura;Bek
+Ortizan Solossa;PSM Makassar;Bek
+Ortizan Solossa;Arema Malang;Bek
+Patrich Wanggai;Perseman Manokwari;Penyerang
 Patrich Wanggai;Persidafon Dafonsoro;Penyerang
+Ponaryo Astaman;Persija Jakarta;Gelandang
+Ponaryo Astaman;PSM Makassar;Gelandang
 Ponaryo Astaman;Sriwijaya FC;Gelandang
+Ponaryo Astaman;Bontang FC;Gelandang
+Ponaryo Astaman;Arema Malang;Gelandang
 Rachmat Latief;Persiba Balikpapan;Defender
+Rachmat Latief;PSM Makassar;Defender
+Rachmat Latief;Sriwijaya FC;Defender
 Rahmat Rivai;Persegres Gresik;Penyerang
+Rahmat Rivai;Persebaya Surabaya;Penyerang
+Rahmat Rivai;Persipura Jayapura;Penyerang
+Rahmat Rivai;Persitara Jakarta Utara;Penyerang
+Rahmat Rivai;Persiter Ternate;Penyerang
+Rahmat Rivai;PSPS Pekanbaru;Penyerang
+Rahmat Rivai;Sriwijaya FC;Penyerang
+Rahmat Rivai;Sriwijaya F.C.;Penyerang
+Rizky Ramdani Lestaluhu;Persija Jakarta;Penyerang
 Rizky Ramdani Lestaluhu;Sriwijaya FC;Penyerang
+Roni Tri Prasnanto;Persekabpas Pasuruan;Kiper
 Roni Tri Prasnanto;Persela Lamongan;Kiper
+Roni Tri Prasnanto;Persija Jakarta;Kiper
+Roni Tri Prasnanto;Persitara Jakarta Utara;Kiper
+Ronny Firmansyah;Persela Lamongan;Gelandang
+Ronny Firmansyah;Persmin Minahasa;Gelandang
+Ronny Firmansyah;Arema Indonesia;Gelandang
+Ronny Firmansyah;Persegi Gianyar;Gelandang
 Rudi Widodo;Persela Lamongan;Penyerang
+Rudi Widodo;Persibo Bojonegoro;Penyerang
+Rudi Widodo;Persis Solo;Penyerang
+Rudi Widodo;Persiter Ternate;Penyerang
+Rudi Widodo;PSS Sleman;Penyerang
+Rudi Widodo;Sriwijaya FC;Penyerang
+Rudi Widodo;Persiku Kudus;Penyerang
+Rudi Widodo;Sriwijaya F.C.;Penyerang
+Rudi Widodo;Pelita Jaya FC;Penyerang
+Saktiawan Sinaga;Persik Kediri;Penyerang
+Saktiawan Sinaga;PSDS Deli Serdang;Penyerang
+Saktiawan Sinaga;PSMS Medan;Penyerang
+Saktiawan Sinaga;PSPS Pekanbaru;Penyerang
+Saktiawan Sinaga;Arema Indonesia;Penyerang
 Saktiawan Sinaga;Mitra Kukar;Penyerang
+Saktiawan Sinaga;Semen Padang;Penyerang
+Stefano Lilipaly;FC Utrecht;Midfielder
+Steven Hendambo;Persiba Bantul;Defender
+Steven Hendambo;Persipura Jayapura;Defender
 Steven Hendambo;Persiram Raja Ampat;Defender
+Steven Hendambo;Persitara Jakarta Utara;Defender
+Steven Hendambo;Persidafon;Defender
 Sultan Samma;Sriwijaya F.C.;Penyerang
 Sunar Sulaiman;Persela Lamongan;Bek
+Sunar Sulaiman;PSM Makassar;Bek
+Sunar Sulaiman;Arema Malang;Bek
+Sunar Sulaiman;Barito Putra;Bek
 Sunarto;Arema Indonesia;Penyerang
+Supaham;Delta Putra Sidoarjo;Penyerang
+Supaham;Persebaya Surabaya;Penyerang
+Supaham;Persedikab Kediri;Penyerang
+Supaham;Persekabpas Pasuruan;Penyerang
+Supaham;Persela Lamongan;Penyerang
+Supaham;Persija Jakarta;Penyerang
+Supaham;Persekaba Badung;Penyerang
 Supaham;Persita Tangerang;Penyerang
-Syaifudin;Arema Indonesia;Penjaga gawang
+Syaifudin;Deltras Sidoarjo;Penjaga gawang
 Syamsul Bachri Chaeruddin;Persija Jakarta;Gelandang
+Syamsul Bachri Chaeruddin;PSM Makassar;Gelandang
+Tommy Pranata;PSDS Deli Serdang;Gelandang
+Tommy Pranata;PSMS Medan;Gelandang
+Tommy Pranata;Arema Indonesia;Gelandang
+Tommy Pranata;Persisam Samarinda;Gelandang
 Wahyu Wiji Astanto;Persiba Bantul;Bek
+Wahyu Wiji Astanto;Persis Solo;Bek
+Wahyu Wiji Astanto;Semen Padang FC;Bek
+Waluyo;Persibas Banyumas;Bek
+Waluyo;Persib Bandung;Bek
+Waluyo;Arema Indonesia;Bek
 Waluyo;Deltras Sidoarjo;Bek
-Jendri Pitoy;Persiram Raja Ampat;Penjaga gawang
-Yongki Aribowo;PS Barito Putra;Penyerang
+Yongki Aribowo;Persik Kediri;Penyerang
+Yongki Aribowo;Persisam Putra Samarinda;Penyerang
+Yongki Aribowo;PS Barito Putera;Penyerang
+Yongki Aribowo;Arema Indonesia;Penyerang
 Yosua Pahabol;Semen Padang FC;Penyerang
-Zaenal Arief;Persisam Putra Samarinda;Striker
-E.A. Mangindaan;Persma;Gelandang bertahan
+Zaenal Arief;Persigar Garut;Striker
 Johan Prasetyo;Persik Kediri;Penyerang
+Firmansyah;Persikabo Bogor;Bek
+Firmansyah;Persikota Tangerang;Bek
 Firmansyah;Sriwijaya FC;Bek
+Firmansyah;Pelita Jaya Purwakarta;Bek
+Edi Kurnia;Persib Bandung;Kiper
 Edi Kurnia;Pelita Bandung Raya;Kiper
+Edi Kurnia;Persikad;Kiper
+Edi Kurnia;PSMS;Kiper
 Cecep Supriatna;Persib Bandung;Kiper
+Cecep Supriatna;Sriwijaya FC;Kiper
+Tubagus Tema Mursadat;Persib Bandung;Kiper
+Tubagus Tema Mursadat;Persita Tangerang;Kiper
 Tubagus Tema Mursadat;Pelita Bandung Raya;Kiper
-Aji Nurpijal;Bandung FC;Bek
-Salim Alaydrus;Persija Jakarta;Gelandang
+Tubagus Tema Mursadat;Persikota;Kiper
+Aji Nurpijal;Persib Bandung;Bek
+Aji Nurpijal;Persijap Jepara;Bek
+Aji Nurpijal;Mitra Kukar;Bek
+Salim Alaydrus;Persib Bandung;Gelandang
+Salim Alaydrus;Persika Karawang;Gelandang
+Salim Alaydrus;Persikota Tangerang;Gelandang
+Salim Alaydrus;Pelita Jaya;Gelandang
+Gilang Angga Kusuma;Persib Bandung;Gelandang
+Gilang Angga Kusuma;Persikab Bandung;Gelandang
 Gilang Angga Kusuma;Persiraja;Gelandang
 Suwita Pata;Persib Bandung;Gelandang
+Suwita Pata;Persikab Bandung;Gelandang
+Suwita Pata;PSIS Semarang;Gelandang
+Suwita Pata;PSS Sleman;Gelandang
+Dicky Firasat;Persela Lamongan;Penyerang
+Dicky Firasat;Persib Bandung;Penyerang
+Dicky Firasat;Persibo Bojonegoro;Penyerang
 Dicky Firasat;Arema Indonesia;Penyerang
-Harri Salisburi;Persija Jakarta;Bek
+Harri Salisburi;Sriwijaya FC;Bek
 Irwan Wijasmara;Persib Bandung;Bek
+Wildansyah;Persib Bandung;Bek
 Wildansyah;Persisam;Bek
+Siswanto;Persekabpas Pasuruan;Gelandang
+Siswanto;Persema Malang;Gelandang
+Siswanto;Persib Bandung;Gelandang
 Siswanto;Sriwijaya FC;Gelandang
-Airlangga Sucipto;Persib Bandung;Striker
+Siswanto;Persmin Minahasa;Gelandang
+Airlangga Sucipto;Persib;Striker
+Airlangga Sucipto;Deltras;Striker
+Gendut Doni Christiawan;Persebaya Surabaya;Penyerang
+Gendut Doni Christiawan;Persiba Balikpapan;Penyerang
+Gendut Doni Christiawan;Persib Bandung;Penyerang
+Gendut Doni Christiawan;Persija Jakarta;Penyerang
 Gendut Doni Christiawan;Persijap Jepara;Penyerang
+Gendut Doni Christiawan;Persikota Tangerang;Penyerang
+Gendut Doni Christiawan;Persitara Jakarta Utara;Penyerang
+Gendut Doni Christiawan;PSIS Semarang;Penyerang
+Gendut Doni Christiawan;Sriwijaya FC;Penyerang
+Gendut Doni Christiawan;Pelita Jaya Jawa Barat;Penyerang
+Gendut Doni Christiawan;Arema Malang;Penyerang
 Muhammad Ilham;Persib Bandung;Gelandang
+Muhammad Ilham;Persija Jakarta;Gelandang
+Muhammad Ilham;Persikota Tangerang;Gelandang
+Muhammad Ilham;PSPS Pekanbaru;Gelandang
+Muhammad Ilham;Petrokimia Putra;Gelandang
+Muhammad Ilham;Pelita Jaya;Gelandang
+M. Basri;PSM Makassar;Pelatih
 Richi Pravita Hari;Persekam Metro FC;Defender
+Richi Pravita Hari;Arema Malang;Defender
 Muhammad Bachtiar;Persiba Balikpapan;Gelandang
+Muhammad Bachtiar;Bontang FC;Gelandang
+Muhammad Bachtiar;Arema Malang;Gelandang
+Muhammad Bachtiar;Mitra Kukar;Gelandang
+Muhammad Bachtiar;Persipura;Gelandang
+Ahmad Sembiring Usman;Persiba Balikpapan;Gelandang
+Ahmad Sembiring Usman;Persiter Ternate;Gelandang
 Ahmad Sembiring Usman;PS Barito Putera;Gelandang
+Ahmad Sembiring Usman;Persipur Purwodadi;Gelandang
+Ahmad Sembiring Usman;Arema Malang;Gelandang
+Ahmad Sembiring Usman;Persisam Samarinda;Gelandang
 Suroso (pesepak bola);Persema Malang;Defender
-Dadang Sudrajat;Persib Bandung;Kiper
+Suroso (pesepak bola);Persik Kediri;Defender
+Suroso (pesepak bola);Arema Malang;Defender
+Suroso (pesepak bola);Deltras Sidoarjo;Defender
+Dadang Sudrajat;Persib;Kiper
+Dadang Sudrajat;Arema;Kiper
+Dadang Sudrajat;Persitara;Kiper
+Jajang Mulyana;Boavista SC;Striker
+Jajang Mulyana;Pelita Jaya;Striker
 Jajang Mulyana;Mitra Kukar;Striker
+Talaohu Abdul Musafri;Perseman Manokwari;Penyerang
+Talaohu Abdul Musafri;Persiba Balikpapan;Penyerang
+Talaohu Abdul Musafri;Persija Jakarta;Penyerang
+Talaohu Abdul Musafri;Persiter Ternate;Penyerang
+Talaohu Abdul Musafri;PSS Sleman;Penyerang
 Talaohu Abdul Musafri;Arema Indonesia;Penyerang
+Dian Agus Prasetyo;Persijap Jepara;Penjaga gawang
+Dian Agus Prasetyo;Pelita Jaya;Penjaga gawang
+Dian Agus Prasetyo;Arema Indonesia;Penjaga gawang
 Dian Agus Prasetyo;Barito Putra;Penjaga gawang
-Achmad Kurniawan;Semen Padang;Kiper
-Oktavianus (pemain sepak bola);Persija;Gelandang
-Suwandi (pemain sepak bola);PSIR Rembang;Gelandang
+Dian Agus Prasetyo;Petrokimia Putra Gresik;Penjaga gawang
+Achmad Kurniawan;Persik Kediri;Kiper
+Achmad Kurniawan;Persita Tangerang;Kiper
+Achmad Kurniawan;Arema Malang;Kiper
+Achmad Kurniawan;Arema Indonesia;Kiper
+Achmad Kurniawan;PS Semen Padang;Kiper
+Charles Woof;Perseru Serui;Kiper
+Charles Woof;Persiwa Wamena;Kiper
+Suwandi (pemain sepak bola);Persegres Gresik;Gelandang
+Suwandi (pemain sepak bola);Persib Bandung;Gelandang
+Suwandi (pemain sepak bola);PSM Makassar;Gelandang
+Suwandi (pemain sepak bola);Petrokimia Putra;Gelandang
+Suwandi (pemain sepak bola);Persita Tangerang;Gelandang
+Suwandi (pemain sepak bola);Mitra Kutai Kartanegara;Gelandang
+Suwandi (pemain sepak bola);Perseden Denpasar;Gelandang
+Suwandi (pemain sepak bola);Persija;Gelandang
+Suwandi (pemain sepak bola);Bontang PKT;Gelandang
+Singgih Pitono;Persema Malang;Pelatih
+Singgih Pitono;Petrokimia Putra;Pelatih
+Singgih Pitono;Perseta Tulungagung;Pelatih
+Singgih Pitono;Arema Malang;Pelatih
+Singgih Pitono;Persisam Samarinda;Pelatih
+Sutaji;Persebaya Surabaya;Midfielder
 Sutaji;Persema Malang;Midfielder
+Sutaji;PSS Sleman;Midfielder
+Sutaji;Arema Malang;Midfielder
+Sutaji;Deltras Sidoarjo;Midfielder
 I Komang Putra;Persema Malang;Goalkeeper
+I Komang Putra;PSIS Semarang;Goalkeeper
+Munhar;Persema Malang;Defender
 Munhar;Arema Indonesia;Defender
 Sukasto Efendi;Persema Malang;Kiper
+Sukasto Efendi;Persekaba Badung;Kiper
 Rossi Gustawan;Persema Malang;Midfielder
 Heris Wahyu Jatmiko;Persema Malang;Kiper
 Febri Andikawanto;Persema Malang;Defender
+Abdi Gusti;Persema Malang;Gelandang
 Abdi Gusti;PSMS Medan;Gelandang
+Abdi Gusti;Persisam;Gelandang
 Dedi Haryanto;Persib Bandung;Penjaga gawang
 Aji Saka (atlet);Arema Indonesia;Penjaga gawang
+Harmoko (pemain sepak bola);Persekam Metro FC;Striker
+Harmoko (pemain sepak bola);Persema Malang;Striker
+Harmoko (pemain sepak bola);Persiwa Wamena;Striker
 Harmoko (pemain sepak bola);Perseta Tulungagung;Striker
+Rachmat Affandi;Persebaya Surabaya;Striker
+Rachmat Affandi;Persib Bandung;Striker
 Rachmat Affandi;Persija Jakarta;Striker
+Rachmat Affandi;Persikabo Bogor;Striker
+Rachmat Affandi;PSMS Medan;Striker
+Rachmat Affandi;Pelita Jaya;Striker
+Rachmat Affandi;Arema Indonesia;Striker
+Rachmat Affandi;Persibom;Striker
 Gery Setia Adi Nugraha;Persela Lamongan;Striker
+Gery Setia Adi Nugraha;Pelita Jaya;Striker
+Gery Setia Adi Nugraha;Arema Indonesia;Striker
+Jalaluddin Main;Pelita Jaya;Gelandang
+Jalaluddin Main;Arema Indonesia;Gelandang
+Munadi;Persib Bandung;Gelandang
 Munadi;Persibo Bojonegoro;Gelandang
-Handi Hamzah;PSM Makassar;Bek
-Andi Oddang;Persebaya Surabaya;Penyerang
+Andi Oddang;PSM Makassar;Penyerang
 Yoewanto Stya Beny;Arema Indonesia;Kiper
 Syamsir Alam;DC United;Penyerang
-Reffa Money;Persis Solo;Defender
-Ridwan Awaludin;Bali Devata FC;Gelandang
-Rizky Pellu;Pelita Bandung Raya;Midfielder
-Ismail Marzuki (pesepak bola);Tim SAD Indonesia;Midfielder
+Irvin Museng;Medan Chief;Striker
 Irvin Museng;Pro Duta Bandung;Striker
-Imam Agus Faizal;Tim SAD Indonesia;Defender
+Firmansyah Aprillianto;Persekam Metro FC;Gelandang
 Firmansyah Aprillianto;Arema Indonesia;Gelandang
 Iswan Karim;Arema Indonesia;Kiper
+Iswan Karim;PKT Bontang;Kiper
+Iswan Karim;Persija;Kiper
+Iswan Karim;Persitara;Kiper
 Iswandi Dai;Persema Malang;Midfielder
+Iswandi Dai;Persibo Bojonegoro;Midfielder
 Diva Tarkas;Persijap Jepara;Gelandang
+Diva Tarkas;PSM Makassar;Gelandang
 Aditya Putra Dewa;PSM Makassar;Gelandang
-Asri Akbar;Persib Bandung;Gelandang
-Djayusman Triasdi;Persela;Defender
+Asri Akbar;Persim Maros;Gelandang
+Dwi Sasmianto;Persegres Gresik;Pelatih Kiper
+Dwi Sasmianto;Persema Malang;Pelatih Kiper
+Dwi Sasmianto;Arema Malang;Pelatih Kiper
+Dwi Sasmianto;Barito Putra;Pelatih Kiper
+Djayusman Triasdi;Persebaya Surabaya;Defender
+Djayusman Triasdi;PSM Makassar;Defender
 Reza Mustofa;Persema Malang;Penyerang
+Reza Mustofa;Persewangi Banyuwangi;Penyerang
+Reza Mustofa;Mojokerto Putra;Penyerang
 Yesaya Desnam;Persiwa Wamena;Pemain bertahan
 Ruben Wuarbanaran;C.S. Visé;Bek
+Ruben Wuarbanaran;Pelita Jaya;Bek
 Egi Melgiansyah;Arema FC;Gelandang
-Diego Michiels;-;Bek
+Egi Melgiansyah;Pelita Jaya;Gelandang
+Diego Michiels;Pelita Jaya Jawa Barat;Bek
+Novan Setyo Sasongko;Persibo Bojonegoro;Defender
 Novan Setyo Sasongko;Semen Padang FC;Defender
 Muhammad Hamzah;Persibo Bojonegoro;Defender
 Aries Tuansyah;Persibo Bojonegoro;Defender
 Nurhidayat;Persibo Bojonegoro;Midfielder
 Ardana (pemain sepak bola);PS Bengkulu;Penjaga gawang
 Wahyu Tri Nugroho;Persiba Bantul;Kiper
+Wahyu Tri Nugroho;Persis Solo;Kiper
 Egi Malgiansyah;Pelita Jaya Jawa Barat;Gelandang
-Dedi Kusnandar;Pelita Jaya;Gelandang
 Joko Sasongko;Pelita Jaya Jawa Barat;Penyerang
+Joko Sasongko;Persijatim Jakarta Timur;Penyerang
+Andesi Setyo Prabowo;Pelita Jaya U-21;Penyerang
+Andesi Setyo Prabowo;Persibas Banyumas;Penyerang
 Andesi Setyo Prabowo;Pelita Jaya Jawa Barat;Penyerang
-Amancio Fortes;Semarang United FC;Penyerang
 April Hadi;PSPS;Pemain tengah
+Victor Igbonefo;Persipura Jayapura;Defender
 Victor Igbonefo;Arema FC;Defender
+Victor Igbonefo;Pelita Bandung Raya;Defender
+I Made Wardana;Persikab Bandung;Penjaga Gawang
 I Made Wardana;Pelita Jaya Jawa Barat;Penjaga Gawang
+I Made Wardana;Persegi Gianyar;Penjaga Gawang
+Feriansyah Mas'ud;Pelita Jaya U-21;Penyerang
 Feriansyah Mas'ud;Pelita Jaya Jawa Barat;Penyerang
+Ruben Karel Sanadi;Persikota Tangerang;Pemain bertahan
+Ruben Karel Sanadi;Persipasi Bekasi;Pemain bertahan
+Ruben Karel Sanadi;PSMS Medan;Pemain bertahan
 Ruben Karel Sanadi;Pelita Jaya;Pemain bertahan
+Gilang Ginarsa;Pelita Jaya U-21;Pemain bertahan
+Gilang Ginarsa;PPSM Magelang;Pemain bertahan
 Gilang Ginarsa;Pelita Jaya;Pemain bertahan
+Ipan Priyanto;PSIS Semarang;Pemain bertahan
 Ipan Priyanto;Pelita Jaya;Pemain bertahan
+Riyandi Ramadhana;Pelita Jaya U-21;Gelandang
 Riyandi Ramadhana;Pelita Jaya;Gelandang
-Firdaus Ramadhan;Pelita Jaya FC;Bek
-Tri Rahmad Priadi;Pelita Jaya FC;Pemain bertahan
+Firdaus Ramadhan;Persikota Tangerang;Bek
+Firdaus Ramadhan;Persitara Jakarta Utara;Bek
+Firdaus Ramadhan;Persita Tangerang;Bek
+Firdaus Ramadhan;Pelita Jaya;Bek
+Firdaus Ramadhan;Deltras Sidoarjo;Bek
+Tri Rahmad Priadi;Pelita Jaya U-21;Pemain bertahan
+Tri Rahmad Priadi;Pelita Jaya;Pemain bertahan
 Lukas Mandowen;Persipura Jayapura;Penyerang
 Yustinus Pae;Persipura Jayapura;Gelandang
 Nurmufid Fastabiqul Khoirot;Persebaya 1927;Pemain bertahan
+Danan Puspito;Persija Jakarta;Gelandang
 Danan Puspito;Persijap Jepara;Gelandang
 Anindito Wahyu Erminarno;Persija Jakarta;Penyerang
+Anindito Wahyu Erminarno;Persis Solo;Penyerang
+Anindito Wahyu Erminarno;Mitra Kukar;Penyerang
+Joice Sorongan;Persidafon Dafonsoro;Kiper
+Joice Sorongan;Persikab Bandung;Kiper
+Joice Sorongan;Persma Manado;Kiper
+Joice Sorongan;PSMS Medan;Kiper
+Joice Sorongan;PSS Sleman;Kiper
+Joice Sorongan;Persita Tangerang;Kiper
 Joice Sorongan;Mitra Kukar;Kiper
+Elvis Nelson Anes;Persija Jakarta;Bek
 Elvis Nelson Anes;Mitra Kukar;Bek
+Elvis Nelson Anes;Persijatim Jakarta Timur;Bek
+Indriyanto Setyo Nugroho;Persiba Bantul;Penyerang
+Indriyanto Setyo Nugroho;Persik Kediri;Penyerang
+Indriyanto Setyo Nugroho;PSIS Semarang;Penyerang
 Indriyanto Setyo Nugroho;Persepam Pamekasan;Penyerang
+Indriyanto Setyo Nugroho;Persih Tembilahan;Penyerang
 David Faristian;Persegres Gresik;Gelandang
+David Faristian;PS Barito Putera;Gelandang
+David Faristian;Persipur Purwodadi;Gelandang
+Soleman Lubis;Persija Jakarta;Bek
 Soleman Lubis;Persija Jakarta U-21;Bek
+Fahreza Agamal;Persija Jakarta;Bek
 Fahreza Agamal;Persija Jakarta U-21;Bek
 Ade Mochtar;Persegres Gresik;Kiper
+Ade Mochtar;Bontang FC;Kiper
+Ade Mochtar;Persigo Gorontalo;Kiper
 Ade Suhendra;Persegres Gresik;Bek
+Ade Suhendra;Sriwijaya FC;Bek
 Duani Pasatria;Persegres Gresik;Gelandang
 Achmad Syaful Amry;Persegres Gresik;Kiper
+Achmad Syaful Amry;Perseru Serui;Kiper
 Alfian Habibi;Persegres Gresik;Bek
+Alfian Habibi;PSMS Medan;Bek
+Rudianto;Persegres Gresik;Bek
 Rudianto;Pelita Bandung Raya;Bek
+Rudianto;Semen Padang;Bek
+Rudianto;Gresik United;Bek
 I Gede Sukadana Pratama;Persela Lamongan;Gelandang bertahan
 Eki Nurhakim;Persiba Balikpapan;Striker
+Eki Nurhakim;Persijap Jepara;Striker
+Eki Nurhakim;Sriwijaya FC;Striker
+M. Nur Iskandar;Persibo Bojonegoro;Striker
+M. Nur Iskandar;Persitara;Striker
+M. Nur Iskandar;Batavia Union;Striker
+Aang Suparman;Persiba Balikpapan;Bek
 Aang Suparman;Persib Bandung;Bek
+Aang Suparman;Persibo Bojonegoro;Bek
 Edi Sibung;Persibo Bojonegoro;Defender
+Edi Sibung;PSMS Medan;Defender
+Edi Sibung;PSPS;Defender
 Gustavo Hernan Ortiz;Persibo Bojonegoro;Midfielder
+Gustavo Hernan Ortiz;Persija Jakarta;Midfielder
+Gustavo Hernan Ortiz;Persisam Putra Samarinda;Midfielder
+Gustavo Hernan Ortiz;PSIS Semarang;Midfielder
+Gustavo Hernan Ortiz;Jakarta 1928 FC;Midfielder
 Lexe Anderson;Persibo Bojonegoro;Pemain bertahan
+Lexe Anderson;PSIS Semarang;Pemain bertahan
+Lexe Anderson;PSMS Medan;Pemain bertahan
+Lexe Anderson;PSSB Bireuen;Pemain bertahan
+Lexe Anderson;PSS Sleman;Pemain bertahan
+Lexe Anderson;Gresik United;Pemain bertahan
 Waskito;Persebaya Surabaya;Penyerang
 Arthur Irawan;RCD Espanyol;Pemain belakang
+Vendry Mofu;Persiwa Wamena;Gelandang
 Vendry Mofu;Semen Padang FC;Gelandang
-Jandia Eka Putra;Semen Padang FC;Penjaga gawang
+Jandia Eka Putra;PSP Padang;Penjaga gawang
+Jandia Eka Putra;Semen Padang;Penjaga gawang
 Syafrudin (pemain sepak bola);Semen Padang FC;Bek
+Vendry Ronaldo Mofu;Persiwa Wamena;Gelandang
 Vendry Ronaldo Mofu;Semen Padang FC;Gelandang
-Peri Sandria;Bandung Raya;Penyerang
+Yeyen Tumena;Persebaya Surabaya;Bek
+Yeyen Tumena;Persija Jakarta;Bek
+Yeyen Tumena;Persikota Tangerang;Bek
+Yeyen Tumena;Persma Manado;Bek
+Yeyen Tumena;PSM Makassar;Bek
+Yeyen Tumena;PSMS Medan;Bek
+Yeyen Tumena;Perseden Denpasar;Bek
 Syaifullah Nazar;Barito Putra;Striker
 Amirul Mukminin;Barito Putra;Gelandang
+Nehemia Solossa;Persekabpas Pasuruan;Striker
+Nehemia Solossa;Persibo Bojonegoro;Striker
+Nehemia Solossa;Persikad Depok;Striker
+Nehemia Solossa;Persiram Raja Ampat;Striker
+Nehemia Solossa;PS Barito Putera;Striker
+Nehemia Solossa;Persegi Gianyar;Striker
 Kurnia Sandy;Bandung FC;Kiper
+Kurnia Sandy;Persebaya Surabaya;Kiper
+Kurnia Sandy;Persikabo Bogor;Kiper
+Kurnia Sandy;Persik Kediri;Kiper
+Kurnia Sandy;PSM Makassar;Kiper
+Kurnia Sandy;U.C. Sampdoria;Kiper
+Kurnia Sandy;Pelita Jaya;Kiper
+Kurnia Sandy;Arema Indonesia;Kiper
+Kurnia Sandy;Mitra Kukar;Kiper
+Jajang Paliama;Persibo Bojonegoro;Gelandang
+Jajang Paliama;Persid Jember;Gelandang
 Jajang Paliama;Semen Padang FC;Gelandang
-Asep Mulyana;Pelita Bandung Raya;Gelandang
+Jajang Paliama;PS Mojokerto Putra;Gelandang
+Jajang Paliama;Gresik United;Gelandang
+Asep Mulyana;Persib;Gelandang
 Mochammad Solechudin;Pelita Bandung Raya;Bek
 Dolly Ramadhan Gultom;Pelita Bandung Raya;Gelandang
 Iman Faturohman;Pelita Bandung Raya;Gelandang
 Adi Sulistya;Pelita Bandung Raya;Gelandang
 Delton Stevano;Persija Jakarta;Gelandang
 Elthon Maran;Persiram Raja Ampat;Penyerang
+Elthon Maran;PSIM Yogyakarta;Penyerang
 Frans Freno Sauyai;Persiram Raja Ampat;Gelandang
+Aples Tecuari;Perseman Manokwari;Pemain bertahan
+Aples Tecuari;Persija Jakarta;Pemain bertahan
+Aples Tecuari;PSPS Pekanbaru;Pemain bertahan
+Aples Tecuari;Pelita Jaya FC;Pemain bertahan
+Handi Ramdhan;Persiba Bantul;Pemain bertahan
+Handi Ramdhan;Persikab Bandung;Pemain bertahan
+Handi Ramdhan;Persiku Kudus;Pemain bertahan
+Handi Ramdhan;Jakarta FC;Pemain bertahan
 Rizky Bagja;Persib Bandung;Penjaga gawang
+Rizky Bagja;Persib Bandung U-21;Penjaga gawang
+Tantan;Persikab Bandung;Penyerang
+Tantan;Batavia Union FC;Penyerang
+Tantan;Persitara Jakarta Utara;Penyerang
 Tantan;Sriwijaya F.C.;Penyerang
+Rochy Putiray;PSM Makassar;Penyerang
+Rochy Putiray;PSPS Pekanbaru;Penyerang
+Rochy Putiray;PSS Sleman;Penyerang
+Rochy Putiray;Kitchee SC;Penyerang
+Rochy Putiray;Sriwijaya F.C.;Penyerang
+Rochy Putiray;Arseto Solo;Penyerang
